@@ -5,7 +5,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=EVCG&show_icons=true&theme=merko&line_height=27&hide=contribs">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabiostefani&hide=css,java,html&theme=merko">  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EVCG&hide=css,java,html&theme=merko">  
 </p>
 
 ## 🚀💻 Linguagens
